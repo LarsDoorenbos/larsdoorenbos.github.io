@@ -27,7 +27,7 @@
   contents:
     - title: PhD student
       institution: University of Bern, Bern, Switzerland
-      year: 2020 - present
+      year: 2020 - 2024
       description:
         - Part of the Artificial Intelligence in Medical Imaging Lab at the ARTORG Center for Biomedical Engineering Research
     - title: Master's degree in Computing Science
@@ -44,6 +44,16 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Postdoc
+      institution: University of Bonn, Bonn, Germany
+      year: 2025 - Present
+      description:
+        - Part of the Computer Vision Group, working on video understanding and scientific machine learning.
+    - title: Research Assistant
+      institution: University of Bern, Bern, Switzerland
+      year: 2025
+      description:
+        - Working on machine learning for polarimetry applications.
     - title: Machine Learning Intern
       institution: Nvidia
       year: 2023
@@ -61,17 +71,16 @@
 #       items: 
 #         - Max Planck Medal
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Fundamental Machine Learning
-      items: 
-        - Anomaly/Out-of-Distribution Detection
-        - Computer Vision
-        - Ensemble Methods
-        - Generative Models
-        - Multimodal learning
-    - title: Applied Machine Learning
-      items:
-        - Astroinformatics
-        - Medical Imaging
+# - title: Academic Interests
+#   type: nested_list
+#   contents:
+#     - title: Fundamental Machine Learning
+#       items: 
+#         - Anomaly/Out-of-Distribution Detection
+#         - Computer Vision
+#         - Generative Models
+#         - Multimodal learning
+#     - title: Applied Machine Learning
+#       items:
+#         - Astroinformatics
+#         - Medical Imaging
