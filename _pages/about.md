@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a Postdoc at the Computer Vision Group of Juergen Gall in Bonn, Germany. My research mainly focuses on video understanding and machine learning for science. Previously, I completed my Ph.D. in Bern, where I worked on creating safe and reliable deep learning models. Before, I completed my Bachelor's and Master's degree in Computing Science at the University of Groningen.
+I am a Postdoc in the Computer Vision Group of Juergen Gall in Bonn, Germany. My research mainly focuses on reliable AI, video understanding, and machine learning for science. I completed my Ph.D. at the University of Bern, focusing on safe and reliable deep learning. Before, I did my Bachelor's and Master's degree in Computing Science at the University of Groningen.
 
 
 
